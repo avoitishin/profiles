@@ -1,0 +1,158 @@
+Skyrim - Misc.bsa
+Skyrim - Shaders.bsa
+Skyrim - Interface.bsa
+Skyrim - Animations.bsa
+Skyrim - Meshes0.bsa
+Skyrim - Meshes1.bsa
+Skyrim - Sounds.bsa
+Skyrim - Voices_en0.bsa
+Skyrim - Textures0.bsa
+Skyrim - Textures1.bsa
+Skyrim - Textures2.bsa
+Skyrim - Textures3.bsa
+Skyrim - Textures4.bsa
+Skyrim - Textures5.bsa
+Skyrim - Textures6.bsa
+Skyrim - Textures7.bsa
+Skyrim - Textures8.bsa
+Skyrim - Patch.bsa
+Unofficial Skyrim Special Edition Patch - Textures.bsa
+Unofficial Skyrim Special Edition Patch.bsa
+Point The Way.bsa
+AHZmoreHUD.bsa
+AmazingFollowerTweaks.bsa
+AmazingFollowerTweaks - Textures.bsa
+BSAssets - Textures.bsa
+BSAssets.bsa
+BSHeartland - Textures.bsa
+BSHeartland.bsa
+BS_DLC_patch.bsa
+Falskaar.bsa
+Falskaar - Textures.bsa
+MoonAndStar_MAS - Textures.bsa
+MoonAndStar_MAS.bsa
+MoonAndStar_ImmersionPatch.bsa
+moonpath.bsa
+moonpath - textures.bsa
+Ravengate - Textures.bsa
+Ravengate.bsa
+Gray Fox Cowl.bsa
+Gray Fox Cowl - Textures.bsa
+Gray Fox Flora Overhaul.bsa
+Gray Fox Flora Overhaul - Textures.bsa
+forgottencity.bsa
+forgottencity - textures.bsa
+Vigilant.bsa
+Alternate Start - Live Another Life.bsa
+Cutting Room Floor.bsa
+Cutting Room Floor - Textures.bsa
+NotSoFast-MainQuest.bsa
+NotSoFast-MageGuild.bsa
+Provincial Courier Service.bsa
+The Brotherhood of Old.bsa
+The Brotherhood of Old - Textures.bsa
+TheChoiceIsYours.bsa
+notice board.bsa
+notice board - Textures.bsa
+The Paarthurnax Dilemma.bsa
+LegacyoftheDragonborn.bsa
+LegacyoftheDragonborn - Textures.bsa
+Fossilsyum.bsa
+Fossilsyum - Textures.bsa
+DBM_RelicHunter.bsa
+Skyshards.bsa
+SkyrimsUniqueTreasures - Textures.bsa
+SkyrimsUniqueTreasures.bsa
+SkyrimSewers - Textures.bsa
+SkyrimSewers.bsa
+Solitude Skyway SE.bsa
+UniqueBorderGates-All.bsa
+dD - Enhanced Blood Main.bsa
+SubsurfaceScatteringShader.bsa
+Darkwater Crossing.bsa
+Darkwater Crossing - Textures.bsa
+Dawnstar.bsa
+Dragon Bridge.bsa
+Helarchen Creek.bsa
+Ivarstead.bsa
+Karthwasten.bsa
+Keld-Nar - Textures.bsa
+Keld-Nar.bsa
+Kynesgrove.bsa
+Kynesgrove - Textures.bsa
+Shor's Stone - Textures.bsa
+Shor's Stone.bsa
+Soljund's Sinkhole.bsa
+Whistling Mine - Textures.bsa
+Whistling Mine.bsa
+Convenient Horses.bsa
+DiverseDragonsCollectionSE - Textures.bsa
+DiverseDragonsCollectionSE.bsa
+Skyrim Immersive Creatures Special Edition.bsa
+High Level Enemies - SIC SE Edition - Falskaar.bsa
+High Level Enemies - SIC SE Edition.bsa
+Improved Eyes Skyrim.bsa
+Bring Out Your Dead.bsa
+Immersive Citizens - AI Overhaul.bsa
+Immersive Patrols II.bsa
+Immersive Patrols II - Textures.bsa
+OBIS SE.bsa
+OBIS SE - Textures.bsa
+OBIS SE - NoticeBoard - Addon.bsa
+OBIS SE Patrols Addon.bsa
+Relationship Dialogue Overhaul.bsa
+WetandCold - Textures.bsa
+WetandCold.bsa
+Inigo.bsa
+MrissiTailOfTroubles.bsa
+SL01AmuletsSkyrim - Textures.bsa
+SL01AmuletsSkyrim.bsa
+Dr_Bandolier.bsa
+Dr_Bandolier - Textures.bsa
+PrvtI_HeavyArmory.bsa
+Lore Weapon Expansion.bsa
+PrvtIRoyalArmory.bsa
+Ars Metallica.bsa
+iNeed.bsa
+iNeed - Textures.bsa
+iNeed - Extended.bsa
+Ordinator - Perks of Skyrim - Textures.bsa
+Ordinator - Perks of Skyrim.bsa
+AAE Ultimate Edition.bsa
+AAE Ultimate Edition - Textures.bsa
+KS Dragon Overhaul - Textures.bsa
+KS Dragon Overhaul.bsa
+VioLens SE.bsa
+Wildcat - Combat of Skyrim - Textures.bsa
+Wildcat - Combat of Skyrim.bsa
+Andromeda - Unique Standing Stones of Skyrim.bsa
+Andromeda - Unique Standing Stones of Skyrim - Textures.bsa
+Imperious - Races of Skyrim - Textures.bsa
+Imperious - Races of Skyrim.bsa
+SimplyKnock.bsa
+specialeditionfollowers.bsa
+Apocalypse - Magic of Skyrim.bsa
+Apocalypse - Magic of Skyrim - Textures.bsa
+Apocalypse - Ordinator Compatibility Patch.bsa
+Thunderchild - Epic Shout Package - Textures.bsa
+Thunderchild - Epic Shout Package.bsa
+Summermyst - Enchantments of Skyrim - Textures.bsa
+Summermyst - Enchantments of Skyrim.bsa
+Sacrosanct - Vampires of Skyrim - Textures.bsa
+Sacrosanct - Vampires of Skyrim.bsa
+Moonlight Tales Special Edition.bsa
+Moonlight Tales Special Edition - Textures.bsa
+FlowerGirls SE - Textures.bsa
+FlowerGirls SE.bsa
+LeftHandRings - Textures.bsa
+LeftHandRings.bsa
+Eli_Routa - Non-Stormcloak - Textures.bsa
+Eli_Routa - Non-Stormcloak.bsa
+Campfire.bsa
+Campfire - Textures.bsa
+Frostfall.bsa
+Frostfall - Textures.bsa
+Master of Disguise - Special Edition.bsa
+honedmetal.bsa
+SexLab-AmorousAdventures - Textures.bsa
+SexLab-AmorousAdventures.bsa
